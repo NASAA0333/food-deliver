@@ -14,3 +14,4 @@ app.get("/", async (req: Request, res: Response) => {
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+console.log("1-13-2022");
